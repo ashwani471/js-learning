@@ -155,6 +155,7 @@ var years=new Array(1990,1969,1948);
 console.log(name[2]);
 name[1]='Ben';
 console.log(name);
+// ashwani kumar;
 
 var john=['john', 'smith' ,1990 ,' teacher', false];
 
